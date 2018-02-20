@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SaveAppV2</string>
+    <string name="mainbutton">mainButton</string>
+    <string name="homebutton">homeButton</string>
+    <string name="lockerbutton">lockerButton</string>
+    <string name="plusbutton">plusButton</string>
+    <string name="sendbutton">sendButton</string>
+</resources>
